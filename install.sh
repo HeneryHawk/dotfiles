@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ln -s dotfiles/zshrc .zshrc
-ln -s dotfiles/zsh/aliases.zsh .oh-my-zsh/custom/aliases.zsh
+ln -sf ~/dotfiles/zshrc ~/.zshrc
+ln -sf ~/dotfiles/zsh/aliases.zsh ~/.oh-my-zsh/custom/aliases.zsh
